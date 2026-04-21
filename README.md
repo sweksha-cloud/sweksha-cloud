@@ -11,6 +11,7 @@ Computer Science student @ SJSU. I've done multiple projects in both AI/ML & SWE
 
 Contact Me:
 ~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
+
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
 <!--
 **sweksha-cloud/sweksha-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
