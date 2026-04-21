@@ -12,7 +12,7 @@ Featured Projects
 
 
 ***
-Contact Me:
+Connect with me:
 
 ~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
 
