@@ -1,9 +1,5 @@
 ## Hi, I'm Sweksha 👋
 
-A Computer Science student @ SJSU. I've done multiple projects in both AI/ML & SWE!
-
-1. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
-
 <!--
 **sweksha-cloud/sweksha-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
