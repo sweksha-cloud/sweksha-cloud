@@ -8,8 +8,10 @@ Computer Science student @ SJSU. I've done multiple projects in both AI/ML & SWE
 4. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
 5. [Fairlens-A (in progress)](https://github.com/Kagehina1218/FairLens-A)
 
-
+---
+***
 Contact Me:
+
 ~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
 
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
