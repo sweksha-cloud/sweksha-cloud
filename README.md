@@ -3,7 +3,7 @@
 A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML & SWE!**
 
 ***
-Featured Projects
+~Featured Projects~~
 1. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
 
    Presented findings to AI/ML faculty panel, won 2nd best project
@@ -26,7 +26,10 @@ Featured Projects
 
    Bias Detector for machine learning dataset, developing for Mozilla-rcc
 
-Hackathon Projects
+***
+
+~Hackathon Projects~
+
 1. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
 
    Won Honorable Mention at CyberHacks
@@ -35,6 +38,8 @@ Hackathon Projects
    Dietary needs food finder. Uses AI (so exciting!)!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
 
 ***
+
+
 Connect with me:
 
 ~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
