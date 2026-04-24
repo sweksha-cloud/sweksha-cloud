@@ -21,9 +21,9 @@ A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML &
    
 7. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
 
-   University Ride Share System, using google maps api
+   University Ride Share System, uses google maps api
    
-9. [Fairlens](https://github.com/Kagehina1218/FairLens-A)
+9. [Fairlens (in progress)](https://github.com/Kagehina1218/FairLens-A)
 
    Bias Detector for machine learning dataset, developing for Mozilla-rcc
 
