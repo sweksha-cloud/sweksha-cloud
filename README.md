@@ -3,7 +3,8 @@
 A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML & SWE!**
 
 ***
-~Featured Projects~~
+--Featured Projects--
+
 1. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
 
    Presented findings to AI/ML faculty panel, won 2nd best project
@@ -28,7 +29,7 @@ A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML &
 
 ***
 
-~Hackathon Projects~
+--Hackathon Projects--
 
 1. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
 
