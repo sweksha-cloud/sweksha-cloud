@@ -16,7 +16,7 @@ A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML &
 
    Live snake game and blackjack arcade, with save state
 
-   Include file I/O and password encryption
+   Includes file I/O and password encryption
    
 7. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
 
