@@ -43,7 +43,7 @@ A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML &
 
 Connect with me:
 
-~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
+~Email [sweksha.shaw@sjsu.edu](swekshas123@gmail.com)
 
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
 
