@@ -5,11 +5,22 @@ A Computer Science student @ SJSU. I've done multiple projects in both AI/ML & S
 ***
 Featured Projects
 1. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
-2. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
-3. [Arcade - BlackJack and Snake Game](https://github.com/sweksha-cloud/Game-Manager-CS151-Fall-2025)
-4. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
-5. [Fairlens-A (in progress)](https://github.com/Kagehina1218/FairLens-A)
+   Presented findings to AI/ML faculty panel, won 2nd best project 
+3. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
+   Online shopping platform
+4. [Arcade - BlackJack and Snake Game](https://github.com/sweksha-cloud/Game-Manager-CS151-Fall-2025)
+   Live snake game and blackjack arcade, with save state
+   Include file I/O and password encryption
+6. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
+   University Ride Share System, using google maps api
+7. [Fairlens](https://github.com/Kagehina1218/FairLens-A)
+   Bias Detector for machine learning dataset, developing for Mozilla-rcc
 
+Hackathon Projects
+1. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
+   Won Honorable Mention at CyberHacks
+2. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
+   Dietary needs food finder. Uses AI (so exciting!)!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
 
 ***
 Connect with me:
@@ -17,6 +28,9 @@ Connect with me:
 ~Email [sweksha.shaw@sjsu.edu](sweksha.shaw@sjsu.edu)
 
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
+
+Open to 2026/2027 summer/fall internship roles!
+
 <!--
 **sweksha-cloud/sweksha-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
