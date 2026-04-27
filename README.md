@@ -27,7 +27,7 @@ A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML &
 
    Bias Detector for machine learning dataset, developing for Mozilla-rcc
 
-***
+   
 
 --Hackathon Projects--
 
