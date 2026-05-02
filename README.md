@@ -1,6 +1,7 @@
 ## Hi, I'm Sweksha 👋
+I've done multiple projects in **both AI/ML & SWE!** I can go from developing ML models to deploying full stack apps, and even combining the two. 
 
-A Computer Science student @ SJSU. I've done multiple projects in **both AI/ML & SWE!**
+Computer Science student @ SJSU.
 
 ***
 --Featured Projects--
