@@ -10,7 +10,7 @@ Computer Science student @ SJSU
    
    Presented findings to AI/ML faculty panel, won 2nd best project
 
-3. [UniRide](https://github.com/sweksha-cloud/S1-Team-7)
+3. [UniRide](https://github.com/sweksha-cloud/UniRide)
 
    University Ride Share System
    
