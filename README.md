@@ -12,7 +12,7 @@ Computer Science student @ SJSU
 
 3. [UniRide](https://github.com/sweksha-cloud/S1-Team-7)
 
-   University Ride Share System, uses google maps api
+   University Ride Share System
    
 4. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
 
