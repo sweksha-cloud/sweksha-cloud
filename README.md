@@ -7,10 +7,14 @@ Computer Science student @ SJSU
 --Featured Projects--
 
 1. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
-
-   Presented findings to AI/ML faculty panel, won 2nd best project
    
-3. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
+   Presented findings to AI/ML faculty panel, won 2nd best project
+
+3. [UniRide](https://github.com/sweksha-cloud/S1-Team-7)
+
+   University Ride Share System, uses google maps api
+   
+4. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
 
    Online shopping platform
    
@@ -19,10 +23,6 @@ Computer Science student @ SJSU
    Live snake game and blackjack arcade, with save state
 
    Includes file I/O and password encryption
-   
-7. [UniRide (in progress)](https://github.com/sweksha-cloud/S1-Team-7)
-
-   University Ride Share System, uses google maps api
    
 9. [Fairlens (in progress)](https://github.com/Kagehina1218/FairLens-A)
 
