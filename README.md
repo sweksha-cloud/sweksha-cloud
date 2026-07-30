@@ -37,7 +37,7 @@ Computer Science student @ SJSU
    Won Honorable Mention at CyberHacks
 3. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
 
-   Dietary needs food finder. Uses AI (so exciting!)!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
+   Dietary needs food finder. Leveraged Bolt.new!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
 
 ***
 
