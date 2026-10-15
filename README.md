@@ -18,6 +18,8 @@ Computer Science student @ SJSU
 
    Python, FastAPI, Postgres, AWS Lambda + EventBridge
 
+   <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="600"></a>
+
 3. [Financial Transaction Fraud Detection](https://github.com/AI4ALLteam16a/financial-transaction-fraud-detection) (AI4ALL)
 
    Random Forest classifier that flags fraudulent transactions in a highly imbalanced dataset, with threshold and hyperparameter tuning
