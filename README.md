@@ -6,36 +6,50 @@ Computer Science student @ SJSU
 ***
 --Featured Projects--
 
-1. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
-   
+1. [Arbiter](https://github.com/sweksha-cloud/arbiter) · [Live](https://arbiter-topaz.vercel.app)
+
+   Group restaurant picker: everyone sets preferences privately, then swipes Tinder-style until the group matches
+
+   Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
+
+2. [ToDue Relay](https://github.com/sweksha-cloud/todue-relay)
+
+   Finds deadlines and action items in Gmail with Gemini and syncs the confident ones to Google Calendar
+
+   Python, FastAPI, Postgres, AWS Lambda + EventBridge
+
+3. [Financial Transaction Fraud Detection](https://github.com/AI4ALLteam16a/financial-transaction-fraud-detection) (AI4ALL)
+
+   Random Forest classifier that flags fraudulent transactions in a highly imbalanced dataset, with threshold and hyperparameter tuning
+
+4. [FairLens (in progress)](https://github.com/Kagehina1218/FairLens-A)
+
+   Bias Detector for machine learning dataset, developing for Mozilla-rcc
+
+5. [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders)
+
    Presented findings to AI/ML faculty panel, won 2nd best project
 
-3. [UniRide](https://github.com/sweksha-cloud/UniRide)
+6. [UniRide](https://github.com/sweksha-cloud/UniRide)
 
    University Ride Share System
-   
-4. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
+
+7. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
 
    Online shopping platform
-   
-5. [Arcade - BlackJack and Snake Game](https://github.com/sweksha-cloud/Game-Manager-CS151-Fall-2025)
+
+8. [Arcade - BlackJack and Snake Game](https://github.com/sweksha-cloud/BlackJack-Snake-Arcade)
 
    Live snake game and blackjack arcade, with save state
 
    Includes file I/O and password encryption
-   
-9. [Fairlens (in progress)](https://github.com/Kagehina1218/FairLens-A)
-
-   Bias Detector for machine learning dataset, developing for Mozilla-rcc
-
-   
 
 --Hackathon Projects--
 
 1. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
 
    Won Honorable Mention at CyberHacks
-3. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
+2. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
 
    Dietary needs food finder. Leveraged Bolt.new!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
 
@@ -44,7 +58,7 @@ Computer Science student @ SJSU
 
 Connect with me:
 
-~Email [sweksha.shaw@sjsu.edu](swekshas123@gmail.com)
+~Email [sweksha.shaw@sjsu.edu](mailto:sweksha.shaw@sjsu.edu)
 
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
 
