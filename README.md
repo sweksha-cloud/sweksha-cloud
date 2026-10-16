@@ -6,11 +6,13 @@ Computer Science student @ SJSU
 ***
 --Featured Projects--
 
-1. [Arbiter](https://github.com/sweksha-cloud/arbiter) · [Live](https://arbiter-topaz.vercel.app)
+1. [Arbiter](https://github.com/sweksha-cloud/arbiter)
 
    Group restaurant picker: everyone sets preferences privately, then swipes Tinder-style until the group matches
 
    Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
+
+   <a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="600"></a>
 
 2. [ToDue Relay](https://github.com/sweksha-cloud/todue-relay)
 
