@@ -12,7 +12,7 @@ Computer Science student @ SJSU
 
    Python, FastAPI, Postgres, AWS Lambda + EventBridge
 
-   <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="600"></a>
+   <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="400"></a>
 
 2. [Arbiter](https://github.com/sweksha-cloud/arbiter)
 
@@ -20,7 +20,7 @@ Computer Science student @ SJSU
 
    Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
 
-   <a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="600"></a>
+   <a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="400"></a>
 
 3. [Financial Transaction Fraud Detection](https://github.com/AI4ALLteam16a/financial-transaction-fraud-detection) (AI4ALL)
 
