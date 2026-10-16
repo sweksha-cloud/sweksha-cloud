@@ -66,7 +66,7 @@ Connect with me:
 
 ~LinkedIn [linkedin.com/in/sweksha-shaw/](https://www.linkedin.com/in/sweksha-shaw/)
 
-Open to 2026/2027 summer/fall internship roles!
+Open to summer/fall/winter/spring internship roles!
 
 <!--
 **sweksha-cloud/sweksha-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
