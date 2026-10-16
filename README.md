@@ -12,7 +12,7 @@ Computer Science student @ SJSU
 
    Python, FastAPI, Postgres, AWS Lambda + EventBridge
 
-   <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="400"></a>
+   <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="600"></a>
 
 2. [Arbiter](https://github.com/sweksha-cloud/arbiter)
 
