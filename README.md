@@ -18,6 +18,8 @@ Computer Science student @ SJSU
 
    Group restaurant picker: everyone sets preferences privately, then swipes Tinder-style until the group matches
 
+   Try it [here](https://arbiter-topaz.vercel.app)
+
    Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
 
    <a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="400"></a>
@@ -38,6 +40,8 @@ Computer Science student @ SJSU
 
    University Ride Share System
 
+   Try it [here](https://uniride-hkid.onrender.com/home) (free hosting, may take a minute to wake up)
+
 7. [Ecommerce System](https://github.com/toeyldev/oop-ecommerce-system)
 
    Online shopping platform
@@ -50,10 +54,19 @@ Computer Science student @ SJSU
 
 --Hackathon Projects--
 
-1. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
+1. [TaskMatch](https://github.com/SultanAlzoghaibi/work-match) (CalHacks)
+
+   Menu-bar app that notices what you're working on and matches you, live, with someone doing the same thing. Activity is summarized on-device by Llama 3.2, so only a one-line summary leaves your laptop.
+
+   Watch the demo [here](https://devpost.com/software/taskmatch-5q8uon)
+
+   Try it [here](https://taskmatch-site.vercel.app/)
+
+   Tauri (Rust), local Llama 3.2, Chrome extension, FastAPI, Supabase
+2. [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks)
 
    Won Honorable Mention at CyberHacks
-2. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
+3. [FindMeFood](https://github.com/enamacahiya/spartup-hackathon)
 
    Dietary needs food finder. Leveraged Bolt.new!! Try it [here](https://sensational-tartufo-a4ff7b.netlify.app/)
 
