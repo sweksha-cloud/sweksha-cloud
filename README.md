@@ -40,6 +40,13 @@ Group restaurant picker: everyone sets preferences privately, then swipes Tinder
 
 <a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="400"></a>
 
+#### [TaskMatch](https://github.com/SultanAlzoghaibi/work-match) (CalHacks)
+Menu-bar app that notices what you're working on and matches you, live, with someone doing the same thing. Activity is summarized on-device by Llama 3.2, so only a one-line summary leaves your laptop.
+
+**Links:** [Demo](https://devpost.com/software/taskmatch-5q8uon) · [Try it](https://taskmatch-site.vercel.app/) · [Code](https://github.com/SultanAlzoghaibi/work-match)
+
+**Stack:** Tauri (Rust), local Llama 3.2, Chrome extension, FastAPI, Supabase
+
 ---
 
 ### AI / ML
@@ -50,14 +57,6 @@ Group restaurant picker: everyone sets preferences privately, then swipes Tinder
 | [FairLens](https://github.com/Kagehina1218/FairLens-A) (in progress) | Upload a dataset and get a report of bias issues (under-represented groups, label imbalance, hidden group structure) before any model is trained. Built for SJSU's Responsible Computing Club (Mozilla RCC) | FastAPI, pandas, SciPy, scikit-learn, React + Vite |
 | [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders) | Deep-learning autoencoders that remove Gaussian and non-Gaussian image noise. Presented to an AI/ML faculty panel and won 2nd best project | Python, PyTorch, torchvision |
 
-### Hackathons
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| [TaskMatch](https://github.com/SultanAlzoghaibi/work-match) (CalHacks) | Menu-bar app that matches you, live, with someone working on the same thing. Activity is summarized on-device by Llama 3.2, so only a one-line summary leaves your laptop | Tauri (Rust), local Llama 3.2, Chrome extension, FastAPI, Supabase | [Demo](https://devpost.com/software/taskmatch-5q8uon) · [Try it](https://taskmatch-site.vercel.app/) |
-| [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks) (CyberHacks) | Scans a URL for phishing and malware red flags and gives it a risk score. 🏅 Honorable Mention | Java 17, JavaFX, jsoup, Maven | |
-| [FindMeFood](https://github.com/enamacahiya/spartup-hackathon) (SpartUp) | Food finder for dietary needs, built with Bolt.new | React, TypeScript, Vite | [Try it](https://sensational-tartufo-a4ff7b.netlify.app/) |
-
 ### Other projects
 
 | Project | What it does | Stack | Links |
@@ -65,3 +64,5 @@ Group restaurant picker: everyone sets preferences privately, then swipes Tinder
 | [UniRide](https://github.com/sweksha-cloud/UniRide) | University carpooling app: drivers schedule rides, passengers book them | Java Servlets, MySQL, Tomcat, Docker on Render | [Try it](https://uniride-hkid.onrender.com/home) (free hosting, may take a minute to wake up) |
 | [Online Grocery Shopping System](https://github.com/toeyldev/oop-ecommerce-system) | Console e-commerce app with customers, sellers, carts, orders, and returns, built around OOP design (CS151) | Java | |
 | [Arcade: Blackjack & Snake](https://github.com/sweksha-cloud/BlackJack-Snake-Arcade) | Snake and blackjack arcade with save states, file I/O, and password encryption | Java, JavaFX | |
+| [URL Malware Detector](https://github.com/aidan-marra/Cyber-Hacks) (CyberHacks) | Scans a URL for phishing and malware red flags and gives it a risk score. 🏅 Honorable Mention | Java 17, JavaFX, jsoup, Maven | |
+| [FindMeFood](https://github.com/enamacahiya/spartup-hackathon) (SpartUp) | Food finder for dietary needs, built with Bolt.new | React, TypeScript, Vite | [Try it](https://sensational-tartufo-a4ff7b.netlify.app/) |
