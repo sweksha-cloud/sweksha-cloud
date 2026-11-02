@@ -25,6 +25,8 @@ Computer Science student at SJSU. I work across **AI/ML and software engineering
 #### [ToDue Relay](https://github.com/sweksha-cloud/todue-relay)
 Finds deadlines and action items (like RSVPs) in Gmail with Gemini and syncs the confident ones to Google Calendar.
 
+**Links:** [Demo video](https://github.com/user-attachments/assets/34ffe00e-8635-4228-a489-f0d7f87ef30e) · [Code](https://github.com/sweksha-cloud/todue-relay)
+
 **Stack:** Python, FastAPI, Neon Postgres, Gemini, AWS Lambda + EventBridge, GitHub Actions
 
 <a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="600"></a>
@@ -32,7 +34,7 @@ Finds deadlines and action items (like RSVPs) in Gmail with Gemini and syncs the
 #### [Arbiter](https://github.com/sweksha-cloud/arbiter)
 Group restaurant picker: everyone sets preferences privately, then swipes Tinder-style until the group matches.
 
-[Try it](https://arbiter-topaz.vercel.app)
+**Links:** [Live app](https://arbiter-topaz.vercel.app) · [Code](https://github.com/sweksha-cloud/arbiter)
 
 **Stack:** Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
 
