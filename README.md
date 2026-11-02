@@ -4,7 +4,7 @@ Computer Science student at SJSU. I work across **AI/ML and software engineering
 
 <!-- TODO: one or two lines about what you're focused on right now, e.g. "Currently building ... / learning ..." -->
 
-**Open to summer/fall/winter/spring internship roles!**
+**Open to winter/spring/summer internship roles!**
 
 [Email](mailto:sweksha.shaw@sjsu.edu) · [LinkedIn](https://www.linkedin.com/in/sweksha-shaw/) · [Resume](shaw_sweksha_resume.pdf)
 
