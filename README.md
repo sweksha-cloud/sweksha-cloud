@@ -54,7 +54,7 @@ Menu-bar app that notices what you're working on and matches you, live, with som
 | Project | What it does | Stack |
 |---|---|---|
 | [Financial Transaction Fraud Detection](https://github.com/AI4ALLteam16a/financial-transaction-fraud-detection) (AI4ALL) | Compared Logistic Regression, SVM, and Random Forest on 13M+ highly imbalanced transactions. Random Forest won with 0.919 ROC-AUC | Python, scikit-learn, imbalanced-learn, pandas, Streamlit |
-| [FairLens](https://github.com/Kagehina1218/FairLens-A) (in progress) | Upload a dataset and get a report of bias issues (under-represented groups, label imbalance, hidden group structure) before any model is trained. Built for SJSU's Responsible Computing Club (Mozilla RCC) | FastAPI, pandas, SciPy, scikit-learn, React + Vite |
+| [FairLens](https://github.com/sweksha-cloud/Fairlens-a) | Checks a dataset for bias before any model is trained: flags rare groups and outcome gaps between groups (χ² test plus effect size), and explains each finding in plain English. Built for SJSU's Responsible Computing Club (Mozilla RCC). [Try it](https://fairlens-a.vercel.app) | FastAPI, pandas, SciPy, React + Vite, Vercel |
 | [Image Denoising with Autoencoders](https://github.com/AdityaHegde712/Denoising-Autoencoders) | Deep-learning autoencoders that remove Gaussian and non-Gaussian image noise. Presented to an AI/ML faculty panel and won 2nd best project | Python, PyTorch, torchvision |
 
 ### Other projects
