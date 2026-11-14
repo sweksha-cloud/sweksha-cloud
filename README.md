@@ -29,7 +29,7 @@ Finds deadlines and action items (like RSVPs) in Gmail with Gemini and syncs the
 
 **Stack:** Python, FastAPI, Neon Postgres, Gemini, AWS Lambda + EventBridge, GitHub Actions
 
-<a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="600"></a>
+<a href="https://github.com/sweksha-cloud/todue-relay#demo"><img src="https://github.com/sweksha-cloud/todue-relay/raw/main/docs/todue-demo.gif" alt="ToDue Relay demo" width="400"></a>
 
 #### [Arbiter](https://github.com/sweksha-cloud/arbiter)
 Group restaurant picker: everyone sets preferences privately, then swipes Tinder-style until the group matches.
@@ -38,7 +38,7 @@ Group restaurant picker: everyone sets preferences privately, then swipes Tinder
 
 **Stack:** Next.js, Fastify + Socket.IO, Postgres, Docker on Google Cloud, CI/CD with zero-downtime deploys
 
-<a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="400"></a>
+<a href="https://github.com/sweksha-cloud/arbiter"><img src="https://github.com/sweksha-cloud/arbiter/raw/main/docs/arbiter-final-round.webp" alt="Arbiter demo: two friends swipe, match, and agree on a pick" width="280"></a>
 
 #### [TaskMatch](https://github.com/SultanAlzoghaibi/work-match) (CalHacks)
 Menu-bar app that notices what you're working on and matches you, live, with someone doing the same thing. Activity is summarized on-device by Llama 3.2, so only a one-line summary leaves your laptop.
